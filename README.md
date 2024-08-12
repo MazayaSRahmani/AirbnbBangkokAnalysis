@@ -1,6 +1,8 @@
 
 # Bangkok Airbnb Listings Data Analysis Project
 
+
+## Click on the [Airbnb Listings Notebook](https://github.com/MazayaSRahmani/AirbnbBangkokAnalysis/blob/75e4d76873ca73d35bdaac7af95cf2035e85e2b6/Airbnb%20Listings%20bangkok_Capstone2.ipynb) Here to See the Project!
 ## Overview
 This project involves analyzing data related to Airbnb listings in Bangkok, Thailand. The dataset provides information about various aspects of listings such as location, price, amenities, and reviews. The analysis aims to uncover insights into the trends and patterns of Airbnb rentals in Bangkok.
 
